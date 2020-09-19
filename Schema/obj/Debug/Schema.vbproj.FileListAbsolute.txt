@@ -1,0 +1,22 @@
+c:\users\allrid0430\documents\visual studio 2013\Projects\Schema\Schema\bin\Debug\Schema.exe
+c:\users\allrid0430\documents\visual studio 2013\Projects\Schema\Schema\bin\Debug\Schema.pdb
+c:\users\allrid0430\documents\visual studio 2013\Projects\Schema\Schema\bin\Debug\Schema.xml
+c:\users\allrid0430\documents\visual studio 2013\Projects\Schema\Schema\obj\Debug\Schema.Form1.resources
+c:\users\allrid0430\documents\visual studio 2013\Projects\Schema\Schema\obj\Debug\Schema.Resources.resources
+c:\users\allrid0430\documents\visual studio 2013\Projects\Schema\Schema\obj\Debug\Schema.vbproj.GenerateResource.Cache
+c:\users\allrid0430\documents\visual studio 2013\Projects\Schema\Schema\obj\Debug\Schema.exe
+c:\users\allrid0430\documents\visual studio 2013\Projects\Schema\Schema\obj\Debug\Schema.xml
+c:\users\allrid0430\documents\visual studio 2013\Projects\Schema\Schema\obj\Debug\Schema.pdb
+C:\Users\Allano\Desktop\Schema\Schema\Schema\obj\Debug\Schema.exe
+C:\Users\Allano\Desktop\Schema\Schema\Schema\obj\Debug\Schema.xml
+C:\Users\Allano\Desktop\Schema\Schema\Schema\obj\Debug\Schema.pdb
+C:\Users\Allano\Desktop\Schema\Schema\Schema\bin\Debug\Schema.exe
+C:\Users\Allano\Desktop\Schema\Schema\Schema\bin\Debug\Schema.pdb
+C:\Users\Allano\Desktop\Schema\Schema\Schema\bin\Debug\Schema.xml
+C:\Users\Allano\Desktop\Schema\Schema\Schema\obj\Debug\Schema.Form1.resources
+C:\Users\Allano\Desktop\Schema\Schema\Schema\obj\Debug\Schema.Resources.resources
+C:\Users\Allano\Desktop\Schema\Schema\Schema\obj\Debug\Schema.vbproj.GenerateResource.Cache
+D:\Programming Services\Schema\Schema\Schema\obj\Debug\Schema.vbprojAssemblyReference.cache
+D:\Programming Services\Schema\Schema\Schema\obj\Debug\Schema.exe
+D:\Programming Services\Schema\Schema\Schema\obj\Debug\Schema.xml
+D:\Programming Services\Schema\Schema\Schema\obj\Debug\Schema.pdb
